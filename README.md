@@ -1,0 +1,2 @@
+# BitCoin_Price
+Bitcoin has recently received a lot of attention from the media and the public due to its recent price surge and crash. Correspondingly, many researchers have investigated various factors that affect the Bitcoin price and the patterns behind its fluctuations, in particular, using various machine learning methods. Here, I've build model to predict the bitcoin price using machine learning algorithms.
